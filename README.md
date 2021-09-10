@@ -12,3 +12,4 @@ https://github.com/GBNP5000/GET_DATA_IN_SELENIUM/blob/main/ERR-1.png
 
 HERE IS UPDATED PROGRAM https://github.com/GBNP5000/GET_DATA_IN_SELENIUM_1
 
+IF U HAVE SOLUTION? PLS MSG ME @ https://www.facebook.com/kadhir.gana/
